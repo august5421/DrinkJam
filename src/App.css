@@ -1,0 +1,9 @@
+body {
+    overflow-y: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #9c27b0 transparent;
+  }
+
+  .html5-video-player a {
+    display: none !important;
+}

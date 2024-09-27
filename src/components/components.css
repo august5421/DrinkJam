@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'LogoFont';
+    src: local('LogoFont'), url(../assets/fonts/main.ttf) format('truetype');
+}
+.css-1v4qvbo-MuiFormLabel-root-MuiInputLabel-root {
+    color: #9c27b0 !important;
+  }
+  .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-color: #9c27b0 !important;
+    border-radius: 10px !important;
+  }
+  
+  .css-hjtp1-MuiInputBase-root-MuiOutlinedInput-root:hover
+  .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-color: #9c27b0 !important;
+    color: #9c27b0 !important;
+  }
+  .css-1u3bzj6-MuiFormControl-root-MuiTextField-root:hover
+  .css-1v4qvbo-MuiFormLabel-root-MuiInputLabel-root {
+    color: #9c27b0 !important;
+  }
+  .css-hjtp1-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #9c27b0 !important;
+  }
+  .css-l0lvxw-MuiButtonBase-root-MuiButton-root {
+    border: 1px solid white !important;
+    color: white !important;
+  }
+  .css-l0lvxw-MuiButtonBase-root-MuiButton-root:hover {
+    color: #9c27b0 !important;
+    border: 1px solid #9c27b0 !important;
+  }
+  .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    color: white !important;
+  }
+  .css-179z3gj-MuiFormLabel-root-MuiInputLabel-root {
+    color: rgba(225, 225, 225, 0.6) !important;
+  }
+  .css-179z3gj-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+    color: #9c27b0 !important;
+  }
